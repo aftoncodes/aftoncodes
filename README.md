@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WilliamAfton-codes
+- 👀 I’m interested in all things cyber-sec, pen testing and machine learning
+- 🐍 I’m currently programming in Python
+- 🙋‍ I'm open for program requests!
+- 📨 How to reach me: Discord @William_Afton#2643
