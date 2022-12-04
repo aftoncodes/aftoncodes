@@ -8,3 +8,5 @@ DM me for a program request on Discord @William_Afton#2643
 I also have a TikTok now!: https://www.tiktok.com/@william_afton.tiktok
 
 Also, please star my GitHub pages, it's free and really helps me out →_→
+
+Donations accepted and _wildly_ appreciated! Every donation helps me work on more programs for you! Donate [here](https://www.paypal.com/donate/?hosted_button_id=KGHQH84WUYLAS)
