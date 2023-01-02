@@ -8,7 +8,7 @@ I chose this online persona because I _love_ Five Night's at Freddy's. It's my t
 
 #### Supporters
 I could really use all of your support, every star on my GitHub page contributes more than you know! I also have a [PayPal](https://www.paypal.com/donate/?hosted_button_id=KGHQH84WUYLAS) if you _really_ like my work, and donations are incredibly incredibly appreciated! Thanks for taking the time to look at my work.
-Donations accepted and _wildly_ appreciated! Every donation helps me work on more programs for you! Donate [here](https://www.paypal.com/donate/?hosted_button_id=KGHQH84WUYLAS)
+Donations accepted and _wildly_ appreciated! Every donation helps me work on more programs for you! Donate [here](https://www.paypal.com/donate/?hosted_button_id=KGHQH84WUYLAS) or press the button below
 
 #### Socials
 Discord: @William_Afton#2643
@@ -18,3 +18,6 @@ Email: williamafton.codes@gmail.com
 Twitter: https://twitter.com/williamafton_py
 
 TikTok: https://www.tiktok.com/@william_afton.tiktok
+
+
+[![image-removebg-preview (3)](https://user-images.githubusercontent.com/107783820/210257906-67763f16-1f4c-4b73-ae0d-b9fbe2fd048e.png)](https://www.paypal.com/donate/?hosted_button_id=KGHQH84WUYLAS)
