@@ -11,13 +11,9 @@ I could really use all of your support, every star on my GitHub page contributes
 Donations accepted and _wildly_ appreciated! Every donation helps me work on more programs for you! Donate [here](https://www.paypal.com/donate/?hosted_button_id=KGHQH84WUYLAS) or press the button below
 
 #### Socials
+
+[![Linktree_logo](https://user-images.githubusercontent.com/107783820/216793693-3103fbe4-f0eb-4808-9c08-d6fb210b1711.png)](https://linktr.ee/willafton_codes)
+
 Discord: @William_Afton#2643
 
 Email: williamafton.codes@gmail.com
-
-Twitter: https://twitter.com/williamafton_py
-
-TikTok: https://www.tiktok.com/@william_afton.tiktok
-
-
-[![image-removebg-preview (3)](https://user-images.githubusercontent.com/107783820/210257906-67763f16-1f4c-4b73-ae0d-b9fbe2fd048e.png)](https://www.paypal.com/donate/?hosted_button_id=KGHQH84WUYLAS)
