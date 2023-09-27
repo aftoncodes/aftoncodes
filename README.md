@@ -1,14 +1,9 @@
-<audio controls autoplay muted>
-  <source src="The Caretaker - It's Just A Burning Memory (2016).mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
 <p style="background-image: url('');">
-<img draggable="false" src="https://i.imgur.com/mdG0d2F.png"></a>
+<img draggable="false" src="https://cdn.discordapp.com/attachments/1147098350764707911/1156693735501996032/image.png"></a>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=scrumpyy&label=Profile%20views&color=5d96f0&style=pixel" alt="scrumpyy"/>
-  <a href="https://uwu.gal/r/discord" target="_blank">
-    <img draggable="false" style="width:119xp;height:20xp;" src="https://discord.com/api/guilds/721528373377105970/embed.png">
+  <img src="https://komarev.com/ghpvc/?username=aftoncodes&label=Profile%20views&color=5d96f0&style=pixel" alt="scrumpyy"/>
+    <a href="https://discord.gg/zSsudS6BPD" target="_blank">
+    <img draggable="false" style="width:119xp;height:20xp;" src="https://discord.com/api/guilds/1037821874618511400/embed.png">
   </a>
 </p>
 
@@ -16,30 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋%2C+I'm+Afton!;I'm+shit+at+coding.;Even+though+I+study+CS;Why+am+I+here?;Even+this+README+isn't original&center=true&width=750&height=80&color=5d96f0&vCenter=true&pause=5&size=30">
 </p>
 
-<h3 align="center">My projects:</h3>
-<p align="center">
-  <a href="https://scrumpbot.com" target="_blank">
-    <img align="center" src="https://i.imgur.com/NoMrkGj.png" height="50" width="50" />
-  </a> <a href="https://uwu.gal/nofishing" target="_blank">
-    <img align="center" src="https://i.imgur.com/kplVAKd.png" height="50" width="50" />
-  </a> <a href="https://uwu.gal/element" target="_blank">
-    <img align="center" src="https://i.imgur.com/KCXJ4yk.png" height="50" width="50" />
-  </a> <a href="https://hdsc.rs" target="_blank">
-    <img align="center" src="https://i.imgur.com/IkOfOTa.png" height="50" width="50" />
-  </a> <a href="https://crbn.cfd" target="_blank">
-    <img align="center" src="https://i.imgur.com/aW3uyXU.png" height="50" width="50" />
-  </a> <a href="https://uwu.gal/r/weezer/github" target="_blank">
-    <img align="center" src="https://i.imgur.com/veAyp5O.png" height="50" width="50" />
-  </a> <a href="https://github.com/Isabe1le/Isassembly" target="_blank">
-    <img align="center" src="https://i.imgur.com/hn5Ntro.png" height="50" width="50" />
-  </a> <a href="https://uwu.gal/r/at-someone/github" target="_blank">
-    <img align="center" src="https://i.imgur.com/3sbfvuO.png" height="50" width="50" />
-  </a> <a href="https://uwu.gal/r/slowermode" target="_blank">
-    <img align="center" src="https://i.imgur.com/rMuFtlH.png" height="50" width="50" />
-  </a> <a href="https://github.com/Isabe1le/pygeolocate" target="_blank">
-    <img align="center" src="https://i.imgur.com/g3Euo2M.png" height="50" width="50" />
-  </a>
-</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://uwu.gal/r/youtube"  target="_blank">
