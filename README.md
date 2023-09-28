@@ -24,6 +24,7 @@
 <p align="center">
   <img src="https://shields.io/badge/Python-5/5-5d96f0?logo=python&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <img src="https://shields.io/badge/Lua-4/5-5d96f0?logo=lua&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  <img src="https://shields.io/badge/Kali_Linux-3/5-5d96f0?logo=kalilinux&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <img src="https://shields.io/badge/C++-2/5-5d96f0?logo=cplusplus&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <img src="https://shields.io/badge/Java-2/5-5d96f0?logo=oracle&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <br>
